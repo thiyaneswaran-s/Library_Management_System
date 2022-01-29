@@ -1,0 +1,18 @@
+This project is about maintaining book in Library when a student borrow or return a book.
+
+To run this project
+
+1) Install Visual Basics
+2) Open Librarymanagementsytem.vbp in Visual Basics
+3) Add on the database.mdb by Changing the directory of database in program
+
+Process
+
+1) Create a Student or Librarian
+2) Add a Book and Delete a Book
+3) Student can borrow 3 books
+4) Student request a Book
+5) Librarian Allow Student to get the book
+6) Student can return the Book
+7) Student can see the request status
+8) The Book count will be maintained
